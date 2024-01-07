@@ -29,8 +29,8 @@ ____________________________
 
 ###  Projects 📊    
 ______________________
-•	Automatic Timetable Generator
-•	LoanLink
+•	Automatic Timetable Generator    
+•	LoanLink    
 •	P.E.G.A.S.U.S
 
 Feel free to reach out to me if you have any questions or want to work together on a project.
