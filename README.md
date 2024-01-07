@@ -35,6 +35,6 @@ ______________________
 
 Feel free to reach out to me if you have any questions or want to work together on a project.
 
-Thank you for stopping     
+Thank you for stopping by    
 Happy Coding 👨🏻‍💻
 
