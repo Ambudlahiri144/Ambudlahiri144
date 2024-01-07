@@ -1,16 +1,36 @@
-### Hi there 👋
+### Welcome Ambud Lahiri's GitHub Profile 👋
 
-<!--
-**Ambudlahiri144/Ambudlahiri144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Ambud Lahiri, a Software Developer. I'm an AI/ML enthusiast and enjoy contributing to open-source projects.
 
-Here are some ideas to get you started:
+###  Knowlege of Tools 🦾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•	Python
+•	Java
+•	C/C++
+•	Data Structures
+•	Dart
+•	Flutter
+•	Qt Package
+•	SQL
+•	ML
+•	Deep Learning
+
+###  Learning Goals 🎯
+•	Getting into Generative AI
+•	Solve at least 200 LeetCode problems on DSA
+•	Enhancing my knowledge on Deep Learning
+
+###  Connect with me 🌐
+[LinkedIn](https://www.linkedin.com/in/ambud-lahiri-b2a98a252)    
+[Instagram](https://www.instagram.com/ambudlahiri_004)
+
+###  Projects 📊
+•	Automatic Timetable Generator
+•	LoanLink
+•	P.E.G.A.S.U.S
+
+Feel free to reach out to me if you have any questions or want to work together on a project.
+
+Thank you for stopping by
+Happy Coding 👨🏻‍💻
+
