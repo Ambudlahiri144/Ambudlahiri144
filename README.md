@@ -7,7 +7,7 @@ Hello! I'm Ambud Lahiri, a Software Developer. I'm an AI/ML enthusiast and enjoy
 _______________________________
 •	Python       
 •	Java    
-•	C/C++    
+•	C++    
 •	Data Structures    
 •	Dart    
 •	Flutter    
