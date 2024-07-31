@@ -1,7 +1,7 @@
 ### Welcome Ambud Lahiri's GitHub Profile 👋    
 _____________________________________________
 
-Hello! I'm Ambud Lahiri, a Software Developer. I'm an AI/ML enthusiast and enjoy contributing to open-source projects.
+Hello! I'm Ambud Lahiri, a Flutter Developer. I'm an AI/ML enthusiast and enjoy contributing to open-source projects.
 
 ###  Knowlege of Tools 🦾    
 _______________________________
